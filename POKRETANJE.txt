@@ -1,0 +1,10 @@
+RENT-A-CAR 2.0
+
+Pokretanje: dvoklik na Pokreni Rent-a-car.cmd, ili Visual Studio solution i F5.
+Potreban je .NET Framework 4.7.2+ i 64-bitni Access ACE drajver.
+
+Program koristi RentACarDB.accdb pored EXE fajla. Postojeca radna baza nije promenjena.
+Novi build bez radne baze dobija novu demonstracionu bazu iz demo foldera.
+Originalna RentACarDB (1).accdb je sacuvana i nije namenjena GitHub-u.
+U javnom paketu postoje samo izmisljeni klijenti i vozila.
+Detalji i provere: README.md i F:/Projekti/IZVESTAJ-SREDJIVANJE.md.

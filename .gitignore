@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/.vs/
+**/backup-before-fixes*/
+**/verification/
+*.accdb
+!demo/
+!demo/RentACarDB.accdb
+*.laccdb
+*.user
+*.suo
+*.pdb
+*.exe
